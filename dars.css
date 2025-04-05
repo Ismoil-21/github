@@ -1,0 +1,35 @@
+body{
+    background-color: brown;
+}
+h1{
+    text-align: center;
+    background-color: aqua;
+    color: white;
+}
+.sd{
+    background-color: white;
+    width: 1497px;
+    height: 805px;
+}
+.fg{
+    text-align: center;
+    width: 300px;
+    height: 260px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.nj{
+    background-color: black;
+    color: white;
+    border-radius: 9px;
+    border: none;
+}
+.lk{
+    text-align: center;
+    width: 300px;
+    height: 260px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
